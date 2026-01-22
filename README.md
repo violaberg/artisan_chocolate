@@ -158,19 +158,17 @@ Provide communication and engagement options.
 
 | Use                  | Colour           | Hex       | Why                                         |
 | -------------------- | ---------------- | --------- | ------------------------------------------- |
-| Primary Background   | Deep Cocoa Brown | `#3B1F14` | Feels rich, premium, and chocolate-inspired |
-| Secondary Background | Warm Cream       | `#F6EFEA` | Soft contrast, improves readability         |
+| Primary Brown   | Deep Cocoa Brown | `#1d0d07` | Feels rich, premium, and chocolate-inspired |
+| Secondary Brown | Warm Cream       | `#F6EFEA` | Soft contrast, improves readability         |
 | Accent / CTA         | Burnt Gold       | `#C9A14A` | Luxury, highlights buttons and prices       |
 
 ### Typography
 
-The typography combines decorative and modern fonts to balance brand personality with usability, using Babylonica for expressive branding, Montserrat for clarity and structure, and Poiret One for elegant text.
+The typography combines expressive branding with a light, elegant text style to reflect the handcrafted and artisanal nature of the brand. A limited font palette is used to maintain visual consistency while ensuring readability and a distinctive identity.
 
-***Babylonica*** is used exclusively for the logo to create a distinctive and expressive brand identity. Its flowing, handwritten style conveys craftsmanship, creativity, and individuality, reinforcing the artisan nature of the chocolate company while remaining visually memorable.
+***Babylonica*** is used exclusively for the logo to create a unique and expressive brand identity. Its flowing, handwritten style conveys craftsmanship, creativity, and individuality, reinforcing the artisan quality of the chocolate company while remaining visually memorable.
 
-***Montserrat*** is used for navigation elements and headings because of its strong readability and contemporary structure. Its clear, geometric design ensures easy scanning of content, supports accessibility, and provides visual contrast against the more decorative body and logo fonts.
-
-***Poiret One*** is used for body text due to its light, elegant appearance, which enhances the refined and artisanal tone of the website. Its clean letterforms maintain readability while contributing to a modern and minimal aesthetic that complements the handcrafted chocolate theme.
+***Poiret One*** is used across the website for navigation, headings, and body text. In bold weights, it provides clear structure and emphasis for headings and navigation elements, while a medium weight is used for body text to maintain readability. Its light, refined letterforms contribute to a modern and minimalist aesthetic that complements the premium, handcrafted chocolate theme.
 
 ## Semantic HTML5 elements:
 
@@ -197,6 +195,10 @@ The typography combines decorative and modern fonts to balance brand personality
 - Buttons
 
 ## Accessibility & Usability Considerations
+
+Poiret One is used consistently across the website with careful adjustments to font weight, size, and spacing to maintain readability and accessibility. Bold weights are applied to navigation and headings to establish a clear visual hierarchy, while a medium weight is used for body text to improve legibility during longer reading.
+
+Line height and spacing are increased to reduce visual strain, and sufficient colour contrast is maintained between text and background to ensure content remains readable for users with visual impairments. Decorative typography is limited to branding elements only, preventing distraction and supporting a clear, user-friendly experience across different devices and screen sizes.
 
 - High contrast text for readability
 

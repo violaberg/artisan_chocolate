@@ -1,17 +1,67 @@
-body {
-  font-family: "Poiret One", sans-serif;
-  font-weight: 500;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
+body {
+    color: #160904;
+    margin-top: auto;
+    overflow-x: hidden;
+}
+
+a {
+    color: #F6EFEA;
+    font-family: "Poiret One", sans-serif;
+    text-decoration: none;
+}
+
+body,
 nav,
 h1,
 h2,
 h3 {
-    font-family: "Montserrat", sans-serif;
+    font-family: "Poiret One", sans-serif;
+    font-weight: 500;
+    line-height: 1.6;
+}
+
+.page-title {
+    text-align: center;
 }
 
 .logo {
-  font-family: "Babylonica", cursive;
-  font-style: normal;
-  font-weight: 400;
+    font-family: "Babylonica", cursive;
+    font-size: 5rem;
+    font-style: normal;
+    font-weight: 400;
+}
+
+nav,
+footer {
+    background-color: #220f08;
+    color: #F6EFEA;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#branding,
+footer {
+    padding: 0 1rem;
+}
+
+#menu {
+    display: inline;
+}
+
+#menu li {
+    display: inline;
+    line-height: 2;
+    margin-right: 2rem;
+    padding-inline: 2rem;
 }
