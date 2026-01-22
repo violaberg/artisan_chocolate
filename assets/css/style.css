@@ -1,0 +1,16 @@
+body {
+  font-family: "Poiret One", sans-serif;
+}
+
+nav,
+h1,
+h2,
+h3 {
+    font-family: "Montserrat", sans-serif;
+}
+
+.logo {
+  font-family: "Babylonica", cursive;
+  font-style: normal;
+  font-weight: 400;
+}
