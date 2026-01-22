@@ -164,21 +164,13 @@ Provide communication and engagement options.
 
 ### Typography
 
-***Playfair Display*** used for page titles, headings, product names
+The typography combines decorative and modern fonts to balance brand personality with usability, using Babylonica for expressive branding, Montserrat for clarity and structure, and Poiret One for elegant text.
 
-- Elegant serif
+***Babylonica*** is used exclusively for the logo to create a distinctive and expressive brand identity. Its flowing, handwritten style conveys craftsmanship, creativity, and individuality, reinforcing the artisan nature of the chocolate company while remaining visually memorable.
 
-- Feels artisanal and handcrafted
+***Montserrat*** is used for navigation elements and headings because of its strong readability and contemporary structure. Its clear, geometric design ensures easy scanning of content, supports accessibility, and provides visual contrast against the more decorative body and logo fonts.
 
-- Common in premium food branding
-
-***Inter*** used for paragraph text, product descriptions, forms and navigation
-
-- Modern, clean, extremely readable
-
-- Balances the decorative heading font
-
-- Excellent accessibility
+***Poiret One*** is used for body text due to its light, elegant appearance, which enhances the refined and artisanal tone of the website. Its clean letterforms maintain readability while contributing to a modern and minimal aesthetic that complements the handcrafted chocolate theme.
 
 ## Semantic HTML5 elements:
 
