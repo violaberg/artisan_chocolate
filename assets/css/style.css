@@ -86,11 +86,12 @@ footer {
     padding-inline: 2rem;
 }
 
-#menu li a{
+#menu li a {
     color: #F6EFEA;
     font-family: "Poiret One", sans-serif;
 }
 
+/* Buttons */
 .btn-container {
     display: flex;
     flex-direction: column;
@@ -105,15 +106,28 @@ footer {
     cursor: pointer;
     font-family: "Poiret One", sans-serif;
     font-size: 1.5rem;
-    margin-inline:auto;
+    margin-inline: auto;
     margin-top: 1rem;
     padding: 1rem 2rem;
+    width: fit-content;
+}
+
+.secondary-btn {
+    background-color: #251109;
+    border: none;
+    color: #F6EFEA;
+    cursor: pointer;
+    font-family: "Poiret One", sans-serif;
+    font-size: 1.1rem;
+    margin-top: 1rem;
+    padding: 0.5rem 1rem;
     width: fit-content;
 }
 
 .tagline {
     font-family: "Babylonica", cursive;
     font-size: 3rem;
+    margin-top: 2rem;
 }
 
 /* Contact Us page */
@@ -121,14 +135,35 @@ input[type=text],
 input[type=email],
 input[type=tel],
 textarea {
-  width: 100%;
-  padding: 12px;
-  box-sizing: border-box;
-  margin-top: 6px;
-  margin-bottom: 16px;
-  resize: vertical;
+    width: 100%;
+    padding: 12px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
 }
 
 .form-container {
     padding: 2rem;
+}
+
+/* Our Chocolates page */
+.product-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 2rem;
+    margin: 0 auto;
+    max-width: 900px;
+    padding: 2rem 0 ;
+}
+
+.product-card {
+    border: 2px solid #160904;
+    color: #F6EFEA;
+    padding: 1.5rem;
+}
+
+.product-card img {
+    margin-bottom: 1rem;
+    max-width: 100%;
 }

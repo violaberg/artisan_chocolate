@@ -92,7 +92,7 @@ Build trust and tell the story behind the artisan cooperative.
 
 Timeline-style layout showing the journey from cocoa bean to bar
 
-### Products Page
+### Our Chocolates Page
 
 ***Purpose:***
 
@@ -156,7 +156,7 @@ Provide communication and engagement options.
 
 | Use                  | Colour           | Hex       | Why                                         |
 | -------------------- | ---------------- | --------- | ------------------------------------------- |
-| Primary Brown   | Deep Cocoa Brown | `#1d0d07` | Feels rich, premium, and chocolate-inspired |
+| Primary Brown   | Deep Cocoa Brown | `#251109` | Feels rich, premium, and chocolate-inspired |
 | Secondary Brown | Warm Cream       | `#F6EFEA` | Soft contrast, improves readability         |
 | Accent / CTA         | Burnt Gold       | `#C9A14A` | Luxury, highlights buttons and prices       |
 
@@ -207,3 +207,5 @@ Line height and spacing are increased to reduce visual strain, and sufficient co
 - Responsive design for mobile and desktop
 
 ## Media
+
+- Home page hero image: <a href="https://www.freepik.com/free-photo/sack-chocolate-bar-pieces-cocoa-powder-beans-table_2698172.htm#fromView=search&page=10&position=4&uuid=2c060a28-bef4-40bc-a343-501e854268b7&query=chocolate">Image by freepik</a>
