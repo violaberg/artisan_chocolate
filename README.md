@@ -58,19 +58,17 @@ Create a strong first impression and immediately communicate quality, craftsmans
 
 Hero section with large chocolate imagery
 
-***Headline:***
+***Tagline:***
 
-“Indulgence Taken to the Extreme”
+“Crafted from Bean to Bar”
 
 ***Call-to-action buttons:***
 
 - “Shop Chocolates”
 
-- “Meet the Chocolatiers”
-
 ***Interactivity & Animations:***
 
-- Subtle CSS hover animations on buttons and product previews
+- Subtle CSS hover animations on buttons
 
 - “Why Our Chocolate?” (handcrafted, fair trade, small batch)
 

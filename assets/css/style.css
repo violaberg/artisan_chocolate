@@ -110,3 +110,8 @@ footer {
     padding: 1rem 2rem;
     width: fit-content;
 }
+
+.tagline {
+    font-family: "Babylonica", cursive;
+    font-size: 3rem;
+}
