@@ -92,6 +92,8 @@ footer {
 }
 
 .btn-container {
+    display: flex;
+    flex-direction: column;
     padding: 2rem;
     text-align: center;
 }
@@ -103,5 +105,8 @@ footer {
     cursor: pointer;
     font-family: "Poiret One", sans-serif;
     font-size: 1.5rem;
+    margin-inline:auto;
+    margin-top: 1rem;
     padding: 1rem 2rem;
+    width: fit-content;
 }
