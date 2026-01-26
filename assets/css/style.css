@@ -5,14 +5,14 @@
 }
 
 body {
+    background-color: #F6EFEA;
     color: #160904;
+    font-size: 22px;
     margin-top: auto;
     overflow-x: hidden;
 }
 
 a {
-    color: #F6EFEA;
-    font-family: "Poiret One", sans-serif;
     text-decoration: none;
 }
 
@@ -27,19 +27,33 @@ h3 {
 }
 
 .page-title {
+    font-size: 2.5rem;
+    padding: 1rem 0;
     text-align: center;
 }
 
-.logo {
+#logo {
+    color: #160904;
+    display: inline-flex;
     font-family: "Babylonica", cursive;
     font-size: 5rem;
     font-style: normal;
     font-weight: 400;
+    padding: 0 1rem;
+}
+
+#branding {
+    display: flex;
+}
+
+.brand-name {
+    font-family: "Babylonica", cursive;
+    font-size: 2.6rem;
 }
 
 nav,
 footer {
-    background-color: #220f08;
+    background-color: #251109;
     color: #F6EFEA;
     text-align: center;
 }
@@ -50,13 +64,19 @@ footer {
     height: 100vh;
 }
 
-#branding,
+main {
+    flex: 1;
+    padding: 1rem;
+}
+
 footer {
-    padding: 0 1rem;
+    padding: 1rem;
 }
 
 #menu {
     display: inline;
+    font-size: 1.2rem;
+    padding: 1rem 0;
 }
 
 #menu li {
@@ -64,4 +84,24 @@ footer {
     line-height: 2;
     margin-right: 2rem;
     padding-inline: 2rem;
+}
+
+#menu li a{
+    color: #F6EFEA;
+    font-family: "Poiret One", sans-serif;
+}
+
+.btn-container {
+    padding: 2rem;
+    text-align: center;
+}
+
+.primary-btn {
+    background-color: #251109;
+    border: none;
+    color: #F6EFEA;
+    cursor: pointer;
+    font-family: "Poiret One", sans-serif;
+    font-size: 1.5rem;
+    padding: 1rem 2rem;
 }
