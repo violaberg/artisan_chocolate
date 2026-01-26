@@ -26,12 +26,24 @@ h3 {
     line-height: 1.6;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+main {
+    flex: 1;
+    padding: 1rem;
+}
+
 .page-title {
     font-size: 2.5rem;
     padding: 1rem 0;
     text-align: center;
 }
 
+/* Branding */
 #logo {
     color: #160904;
     display: inline-flex;
@@ -51,6 +63,13 @@ h3 {
     font-size: 2.6rem;
 }
 
+.tagline {
+    font-family: "Babylonica", cursive;
+    font-size: 3.5rem;
+    margin-top: 2rem;
+}
+
+/* Navigation and Footer */
 nav,
 footer {
     background-color: #251109;
@@ -58,21 +77,25 @@ footer {
     text-align: center;
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-}
-
-main {
-    flex: 1;
-    padding: 1rem;
+nav {
+    border-top: 4px solid #58351b;
+    border-bottom: 5px solid #402712;
+    -moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.15),
+        0px 1px 2px black;
+    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.15),
+        0px 1px 2px black;
 }
 
 footer {
+    border-top: 4px solid #58351b;
+    -moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.15),
+        0px 1px 2px black;
+    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.15),
+        0px 1px 2px black;
     padding: 1rem;
 }
 
+/* Menu */
 #menu {
     display: inline;
     font-size: 1.2rem;
@@ -100,7 +123,7 @@ footer {
 }
 
 .primary-btn {
-    background-color: #251109;
+    background-color: #3A1F10;
     border: none;
     color: #F6EFEA;
     cursor: pointer;
@@ -109,25 +132,41 @@ footer {
     margin-inline: auto;
     margin-top: 1rem;
     padding: 1rem 2rem;
+    border-top: 9px solid #58351b;
+    border-right: 10px solid #311c0b;
+    border-bottom: 10px solid #241505;
+    border-left: 10px solid #402712;
+    -webkit-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.15),
+        0px 1px 2px black;
+    -moz-box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.15),
+        0px 1px 2px black;
+    box-shadow: inset 0px 1px 0px rgba(255, 255, 255, 0.15),
+        0px 1px 2px black;
     width: fit-content;
 }
 
+.primary-btn:hover {
+    background-color: #4B2E17;
+    border-color: #5F391F #311F0D #170D03 #341F0F;
+}
+
+.primary-btn:active {
+    border-color: #170D03 #341F0F #5F391F #311F0D;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+}
+
 .secondary-btn {
-    background-color: #251109;
+    background-color: #F6EFEA;
     border: none;
-    color: #F6EFEA;
+    color: #251109;
     cursor: pointer;
     font-family: "Poiret One", sans-serif;
     font-size: 1.1rem;
     margin-top: 1rem;
     padding: 0.5rem 1rem;
     width: fit-content;
-}
-
-.tagline {
-    font-family: "Babylonica", cursive;
-    font-size: 3rem;
-    margin-top: 2rem;
 }
 
 /* Contact Us page */
@@ -147,6 +186,13 @@ textarea {
     padding: 2rem;
 }
 
+/* Home page */
+.hero-img {
+    box-shadow:
+        0 6px 12px rgba(54, 32, 24, 0.25),
+        0 10px 24px rgba(54, 32, 24, 0.18);
+}
+
 /* Our Chocolates page */
 .product-grid {
     display: grid;
@@ -154,13 +200,13 @@ textarea {
     gap: 2rem;
     margin: 0 auto;
     max-width: 900px;
-    padding: 2rem 0 ;
+    padding: 2rem 0;
 }
 
 .product-card {
-    border: 2px solid #160904;
+    background-color: #251109;
     color: #F6EFEA;
-    padding: 1.5rem;
+    padding: 0.2rem;
 }
 
 .product-card img {

@@ -170,13 +170,34 @@ The typography combines expressive branding with a light, elegant text style to 
 
 ## Semantic HTML5 elements:
 
-<code>header</code>
+<code>article</code>:
+- Each product is independent and complete
+- Better for SEO as search engines understand product structure
+- Improved accessibility for screen readers
+- Semantically accurate
 
-<code>nav</code>
+<code>header</code>:
+- Clearly identifies the top content of a page or section for screen readers
+- Helps search engines understand page structure
+- Can be used multiple times if needed
+- Makes code more readable and maintainable for developers
 
-<code>section</code>
+<code>nav</code>:
+- Screen readers can jump directly to navigation, improving accessibility
+- Search engines recognize it as navigation links, helping with site structure understanding
+- Semantically separates navigation from regular links in content
 
-<code>footer</code>
+<code>section</code>:
+- Groups related content together with clear meaning
+- Should contain a heading to identify what the section is about
+- Helps screen readers understand content organization and create document outlines
+- Useful for articles, chapters, tabs, or any other grouping of content
+
+<code>footer</code>:
+- Identifies closing/supplementary information for example copyright, links, contact info
+- Can be used for page footer or footer within articles/sections
+- Screen readers announce it as footer content, helping users navigate
+- Search engines recognize typical footer content
 
 ## Interactivity & Animation
 
