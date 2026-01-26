@@ -230,3 +230,4 @@ Line height and spacing are increased to reduce visual strain, and sufficient co
 ## Media
 
 - Home page hero image: <a href="https://www.freepik.com/free-photo/sack-chocolate-bar-pieces-cocoa-powder-beans-table_2698172.htm#fromView=search&page=10&position=4&uuid=2c060a28-bef4-40bc-a343-501e854268b7&query=chocolate">Image by freepik</a>
+- Contact Us image: <a href="https://www.pexels.com/photo/assorted-chocolate-bars-with-nuts-on-white-background-32402905/">Photo by Miff Ibra</a>
