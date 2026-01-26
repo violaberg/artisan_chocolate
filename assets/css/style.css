@@ -115,3 +115,20 @@ footer {
     font-family: "Babylonica", cursive;
     font-size: 3rem;
 }
+
+/* Contact Us page */
+input[type=text],
+input[type=email],
+input[type=tel],
+textarea {
+  width: 100%;
+  padding: 12px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+.form-container {
+    padding: 2rem;
+}
