@@ -16,6 +16,22 @@ a {
     text-decoration: none;
 }
 
+.p-text {
+    text-align: center;
+}
+
+.image-container {
+    max-width: 1000px;
+    margin: 2rem auto;
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+
 body,
 nav,
 h1,
