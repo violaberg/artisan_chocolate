@@ -5,17 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description"
-        content="Death by Chocolate is an artisan chocolate marketplace showcasing handcrafted, ethically sourced chocolates made in small batches. Discover indulgent flavours and shop premium chocolate online">
-    <meta name="keywords"
-        content="artisan chocolate, handmade chocolate, luxury chocolate, ethical chocolate, small batch chocolate, gourmet chocolate, chocolate gifts, artisan food, premium chocolate, Death by Chocolate">
+        content="View your cart and checkout your favorite artisan chocolates at Death by Chocolate.">
+    <meta name="keywords" content="cart, checkout, artisan chocolate, Death by Chocolate">
     <link rel="stylesheet" href="assets/css/style.css">
     <link rel="shortcut icon" href="#" type="image/x-icon">
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Babylonica&family=Poiret+One&display=swap" rel="stylesheet">
-
-    <title>Shopping Cart | Death by Chocolate</title>
+    <title>Your Cart | Death by Chocolate</title>
 </head>
 
 <body>
@@ -24,29 +22,46 @@
             <div id="branding">
                 <a href="index.html" id="logo">Death by Chocolate</a>
             </div>
-
             <nav>
                 <ul id="menu">
                     <li><a href="index.html">Home</a></li>
                     <li><a href="about.html">About Us</a></li>
-                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="bean_to_bar.html">Bean to Bar</a></li>
                     <li><a href="products.html">Our Chocolates</a></li>
-                    <li><a href="cart.html">Cart</a></li>
+                    <li><a href="contact.html">Contact Us</a></li>
+                    <li><a href="cart.html">Cart <span id="cart-count">0</span></a></li>
                 </ul>
             </nav>
         </header>
 
         <main>
-            <!-- Page content goes here -->
+            <h1 class="page-title">Your Cart</h1>
+            <p class="p-text" id="empty-msg">Your cart is empty</p>
+
+            <section class="cart-container">
+                <div id="cart-items">
+                    <!-- JS will insert cart items here -->
+                </div>
+
+                <div id="cart-summary">
+                    <p>Total</p>
+                    <p class="cart-total-price">€<span id="cart-total">0.00</span></p>
+                    <a href="confirmation.html" class="primary-btn">Checkout</a>
+                </div>
+            </section>
         </main>
-    <footer>
-        <div>
-            <p class="brand-name">Death by Chocolate</p>
-            <p>Phone +353 123 456 789</p>
-            <p>Copyright &copy; 2026</p>
-        </div>
-    </footer>
-    <script src="assets/js/script.js"></script>
+
+        <footer>
+            <div>
+                <p class="brand-name">Death by Chocolate</p>
+                <p>Phone +353 123 456 789</p>
+                <p>Copyright &copy; 2026</p>
+            </div>
+        </footer>
+
+        <script src="assets/js/cart.js"></script>
+        <script src="assets/js/script.js"></script>
+    </div>
 </body>
 
 </html>
