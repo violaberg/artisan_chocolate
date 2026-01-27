@@ -235,3 +235,9 @@ Line height and spacing are increased to reduce visual strain, and sufficient co
     - <a href="https://pixabay.com/photos/chocolatier-cocoa-chocolate-dessert-2418820/">Pixabay</a>
     - <a href="https://www.vecteezy.com/photo/26979158-indulgent-dark-chocolate-truffle-stack-on-table-generated-by-ai">Stock photos by Vecteezy</a>
     - <a href="https://www.vecteezy.com/photo/26979181-dark-chocolate-truffles-stacked-on-rustic-table-generated-by-ai">Stock photos by Vecteezy</a>
+- Bean to Bar images:
+    - <a href="https://www.freepik.com/free-photo/tropical-mango-trees-with-delicious-fruits_21075365.htm">Cocoa tree</a>
+    - <a href="https://www.freepik.com/free-photo/full-shot-man-picking-cocoa-beans_19673458.htm">Harvesting</a>
+    - <a href="https://www.vecteezy.com/photo/52039811-close-up-of-brown-cocoa-beans-and-dry-cacao-pod-on-a-vintage-wooden-table">Drying cocoa beans</a>
+    - <a href="https://www.freepik.com/free-photo/high-angle-sack-with-seeds-arrangement_16687348.htm#fromView=search&page=2&position=11&uuid=bf2576d7-10a1-46dc-a519-eb7aed2d0c8c&query=sourcing+cocoa+market">Sourcing cocoa beans</a>
+    - <a href="https://www.vecteezy.com/photo/69188792-a-person-is-pouring-cocoa-beans-into-a-large-barrel">Roasting cocoa beans</a>

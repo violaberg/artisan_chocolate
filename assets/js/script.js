@@ -6,7 +6,7 @@ let loadCart = JSON.parse(localStorage.getItem('cart')) || {};
 let count = Object.values(loadCart).reduce((acc, item) => acc + item.quantity, 0);
 cartCount.textContent = count;
 
-// Add click listener to all Add to Cart buttons
+// Add click listener to all 'Add to Cart' buttons for products
 addToCartButtons.forEach(button => {
     button.addEventListener('click', () => {
         const id = button.dataset.productId;
@@ -25,7 +25,7 @@ addToCartButtons.forEach(button => {
 
         localStorage.setItem('cart', JSON.stringify(loadCart));
 
-        // Feedback on button
+        // Feedback on button for user to show item was added to cart
         button.textContent = "Added!";
         setTimeout(() => { button.textContent = "Add to Cart"; }, 1000);
     });
