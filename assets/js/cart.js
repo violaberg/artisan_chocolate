@@ -2,6 +2,7 @@ const cartItems = document.getElementById('cart-items');
 const cartSummary = document.getElementById('cart-summary');
 const cartTotalElem = document.getElementById('cart-total');
 const emptyMsg = document.getElementById('empty-msg');
+const checkoutBtn = document.getElementById('checkout-btn');
 
 let cart = JSON.parse(localStorage.getItem('cart')) || {};
 
@@ -84,3 +85,11 @@ function saveAndRender() {
 }
 
 renderCart();
+
+if (checkoutBtn) {
+    checkoutBtn.addEventListener('click', () => {
+        localStorage.removeItem('cart');
+        cart = {};
+    });
+}
+

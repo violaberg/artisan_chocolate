@@ -156,9 +156,9 @@ Provide communication and engagement options.
 
 | Use                  | Colour           | Hex       | Why                                         |
 | -------------------- | ---------------- | --------- | ------------------------------------------- |
-| Primary Brown   | Deep Cocoa Brown | `#251109` | Feels rich, premium, and chocolate-inspired |
+| Primary Brown   | Deep Cocoa Brown | `#160904` | Feels rich, premium, and chocolate-inspired |
 | Secondary Brown | Warm Cream       | `#F6EFEA` | Soft contrast, improves readability         |
-| Accent / CTA         | Burnt Gold       | `#C9A14A` | Luxury, highlights buttons and prices       |
+| Accent / CTA         | Medium Cocoa Brown       | `#251109` | Depth, highlights buttons and backgrounds |
 
 ### Typography
 
