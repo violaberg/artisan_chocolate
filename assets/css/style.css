@@ -128,6 +128,10 @@ footer p {
     color: #F6EFEA;
 }
 
+.fa-brands {
+    padding: 1rem;
+}
+
 /* Menu */
 #menu {
     display: inline;
