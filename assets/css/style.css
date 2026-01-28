@@ -511,3 +511,15 @@ summary {
         background: #F6EFEA;
     }
 }
+
+@media (max-width: 500px) {
+    #logo {
+        font-size: 3.3rem;
+    }
+}
+
+@media (max-width: 1000px) {
+    #branding {
+        border-bottom: 5px solid #251109;
+    }
+}
