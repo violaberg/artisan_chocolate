@@ -10,6 +10,7 @@
     + [**Product Page**](#products-page)
     + [**Cart Page**](#cart-page)
     + [**Contact Us**](#contact-page)
+* [**Wireframes**](#wireframes)
 * [**Design**](#design)
     + [**Color Scheme**](#color-scheme)
     + [**Typography**](#typography)
@@ -20,7 +21,7 @@
 
 ## Overview
 
-Death by Chocolate is a local, independent chocolatier company selling handmade artisan chocolates. The visual identity of the website uses a warm, chocolate inspired color palette combined with elegant serif typography to reflect craftsmanship, luxury, and authenticity. High contrast between background and text ensures accessibility, while gold accents highlight interactive elements such as calls to action.
+Death by Chocolate is a local, independent chocolatier company selling handmade artisan chocolates. The visual identity of the website uses a warm, chocolate inspired color palette combined with elegant serif typography to reflect craftsmanship, luxury, and authenticity. High contrast between background and text ensures accessibility.
 
 [Link to live site](https://violaberg.github.io/artisan_chocolate/)
 
@@ -133,6 +134,17 @@ Provide communication and engagement options.
 ***Content:***
 
 - Contact form (name, email, message)
+
+## Wireframes
+
+- [Home Page](assets/images/wireframes/Home%20page.jpg)
+- [About Us Page](assets/images/wireframes/About%20Us%20page.jpg)
+- [Bean to Bar Page](assets/images/wireframes/Bean%20to%20Bar%20page.jpg)
+- [Our Chocolates Page](assets/images/wireframes/Our%20Chocolates%20page.jpg)
+- [Contact Us Page](assets/images/wireframes/Contact%20Us%20page.jpg)
+- [Cart](assets/images/wireframes/Cart.jpg)
+- [Thank You Page](assets/images/wireframes/Thank%20You%20page.jpg)
+- [Confirmation Page](assets/images/wireframes/Confirmation%20page.jpg)
 
 ## Design
 
