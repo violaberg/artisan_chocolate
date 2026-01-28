@@ -259,8 +259,17 @@ textarea {
     padding: 0.2rem;
 }
 
+@keyframes scaleUp {
+    from {
+        transform: scale(1);
+    }
+    to {
+        transform: scale(1.05);
+    }
+}
+
 .product-card:hover {
-    transform: scale(1.05);
+    animation: scaleUp 0.3s ease forwards;
 }
 
 .product-card img {
