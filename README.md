@@ -11,6 +11,8 @@
     + [**Cart Page**](#cart-page)
     + [**Contact Us**](#contact-page)
 * [**Wireframes**](#wireframes)
+    + [**Desktop**](#desktop)
+    + [**Mobile**](#mobile)
 * [**Design**](#design)
     + [**Color Scheme**](#color-scheme)
     + [**Typography**](#typography)
@@ -137,6 +139,8 @@ Provide communication and engagement options.
 
 ## Wireframes
 
+### Desktop
+
 - [Home Page](assets/images/wireframes/Home%20page.jpg)
 - [About Us Page](assets/images/wireframes/About%20Us%20page.jpg)
 - [Bean to Bar Page](assets/images/wireframes/Bean%20to%20Bar%20page.jpg)
@@ -145,6 +149,17 @@ Provide communication and engagement options.
 - [Cart](assets/images/wireframes/Cart.jpg)
 - [Thank You Page](assets/images/wireframes/Thank%20You%20page.jpg)
 - [Confirmation Page](assets/images/wireframes/Confirmation%20page.jpg)
+
+### Mobile
+
+- [Home Page](assets/images/wireframes/Home%20Page%20-%20Mobile.jpg)
+- [About Us Page](assets/images/wireframes/About%20Us%20%20Page%20-%20Mobile.jpg)
+- [Bean to Bar Page](assets/images/wireframes/Bean%20to%20Bar%20%20Page%20-%20Mobile.jpg)
+- [Our Chocolates Page](assets/images/wireframes/Our%20Chocolates%20%20Page%20-%20Mobile.jpg)
+- [Contact Us Page](assets/images/wireframes/Contact%20Us%20%20Page%20-%20Mobile.jpg)
+- [Cart](assets/images/wireframes/Cart%20-%20Mobile.jpg)
+- [Thank You Page](assets/images/wireframes/Thank%20You%20%20Page%20-%20Mobile.jpg)
+- [Confirmation Page](assets/images/wireframes/Confirmation%20%20Page%20-%20Mobile.jpg)
 
 ## Design
 
