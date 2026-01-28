@@ -124,6 +124,10 @@ footer {
     padding: 1rem;
 }
 
+footer p {
+    color: #F6EFEA;
+}
+
 /* Menu */
 #menu {
     display: inline;
@@ -520,6 +524,6 @@ summary {
 
 @media (max-width: 1000px) {
     #branding {
-        border-bottom: 5px solid #251109;
+        border-bottom: 4px solid #58351b;
     }
 }
