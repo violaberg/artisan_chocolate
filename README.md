@@ -1,8 +1,6 @@
 <h1 align="center">Death by Chocolate – Artisan Chocolate Collective</h1>
 
-<em><h2 align="center">Indulgence Taken to the Extreme</h2></em>
-
-![]()
+<em><h2 align="center">Crafted from Bean to Bar</h2></em>
 
 ## **Table of Contents**
 * [**Overview**](#overview)
@@ -24,7 +22,7 @@
 
 Death by Chocolate is a local, independent chocolatier company selling handmade artisan chocolates. The visual identity of the website uses a warm, chocolate inspired color palette combined with elegant serif typography to reflect craftsmanship, luxury, and authenticity. High contrast between background and text ensures accessibility, while gold accents highlight interactive elements such as calls to action.
 
-[Link to live site]()
+[Link to live site](https://violaberg.github.io/artisan_chocolate/)
 
 ***Purpose:***
 
