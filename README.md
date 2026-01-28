@@ -96,18 +96,6 @@ Timeline-style layout showing the journey from cocoa bean to bar
 
 - Display products clearly and entice users to explore and purchase.
 
-***Product Categories:***
-
-- Dark Chocolate
-
-- Milk Chocolate
-
-- White Chocolate
-
-- Vegan Chocolate
-
-- Gift Boxes
-
 ***Layout:***
 
 - Grid-based product cards
@@ -115,8 +103,6 @@ Timeline-style layout showing the journey from cocoa bean to bar
 ***Interactivity:***
 
 - Hover effects on product cards
-
-- Scroll to category buttons on top of the page
 
 ### Cart Page
 
